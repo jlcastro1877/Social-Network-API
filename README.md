@@ -9,6 +9,7 @@
   ###  * [Email Address](#email)
   ###  * [Description](#description)
   ###  * [Installation](#Installation)
+  ###  * [Video walking through](#video)
   ###  * [Tests](#tests)
   ###  * [About](#UserInstruction)
   ###  * [Contributors](#Ucontributions)
@@ -26,6 +27,9 @@
   ### You must install the following for this app to function:
   ### npm install
 
+  ## Video:
+  ### https://drive.google.com/file/d/1rCwJXuZhzrdmlvohy_ER3I1jLuu_shld/view?usp=sharing
+  
   ## Tests:
   ### Run the following commands in your terminal to test this app:
   ### n/a
