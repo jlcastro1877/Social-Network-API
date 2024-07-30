@@ -47,3 +47,10 @@
   ### THEN I am able to successfully create, update, and delete users and thoughts in my database
   ### WHEN I test API POST and DELETE routes in Insomnia
   ### THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+
+  ![image](https://github.com/user-attachments/assets/109667fb-9e92-4478-89a4-893fcb0fc82a)
+  ![image](https://github.com/user-attachments/assets/7b0975b2-f563-4d2f-8afa-2553dc5ebf0a)
+  ![image](https://github.com/user-attachments/assets/f231c496-eeda-4f24-b434-8e1f8d4b57a9)
+
+
+
